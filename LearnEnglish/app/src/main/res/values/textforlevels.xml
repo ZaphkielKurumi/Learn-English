@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="China1">China</string>
+    <string name="Russia2">Russia</string>
+    <string name="Japan3">Japan</string>
+    <string name="Egypt4">Egypt</string>
+    <string name="Turkey5">Turkey</string>
+    <string name="Germany6">Germany</string>
+    <string name="France7">France</string>
+    <string name="Italy8">Italy</string>
+    <string name="SouthKorea9">SouthKorea</string>
+    <string name="Ukraine10">Ukraine</string>
+    <string name="Poland11">Poland</string>
+    <string name="Taiwan12">Taiwan</string>
+    <string name="Romania13">Romania</string>
+    <string name="Greece14">Greece</string>
+    <string name="Sweden15">Sweden</string>
+    <string name="Israel16">Israel</string>
+    <string name="Singapore17">Singapore</string>
+    <string name="Slovakia18">Slovakia</string>
+    <string name="Estonia19">Estonia</string>
+    <string name="Iceland20">Iceland</string>
+
+</resources>

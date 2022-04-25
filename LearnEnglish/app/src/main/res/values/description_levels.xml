@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level1" >Choose one of the countries with a higher population.
+        The game will end when you earn 10 points.</string>
+
+</resources>
